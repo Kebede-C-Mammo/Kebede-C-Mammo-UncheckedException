@@ -13,6 +13,8 @@ public class Lab {
      * event happens, like running out of computer memory.
      */
     public void throwUncheckedException(){
+        int[] myArr = { 11, 13, 23};
+        int myNumber = myArr[3]; 
 
     }
 }
